@@ -1,0 +1,37 @@
+_repo: Novelas-ejemplares_61202
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Cervantes Saavedra, Miguel de
+    aliases:
+    - Saavedra, Miguel de Cervantes
+    - Cervantes, Miguel de
+    - De Cervantes Saavedra, Miguel
+    - Cervantes, Michel
+    birthdate: 1547
+    deathdate: 1616
+    gutenberg_agent_id: '505'
+    url: http://www.gutenberg.org/2009/agents/505
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Miguel_de_Cervantes
+    - http://es.wikipedia.org/wiki/Miguel_de_Cervantes
+description: ''
+gutenberg_issued: '2020-01-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61202'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Spanish fiction -- Classical period, 1500-1700'
+- !lcc 'PQ'
+- GITenberg
+tableOfContents: Dedicatoria -- Prólogo -- La Jitanilla -- El Amante liberal -- Rinconete
+  y Cortadillo -- La Española inglesa -- El Licenciado Vidriera -- La Fuerza de la
+  Sangre -- El Celoso Estremeño -- La ilustre Fregona -- Las dos Doncellas -- La Señora
+  Cornelia -- El Casamiento Engañoso -- Coloquio que pasó entre Cipion y Berganza
+  -- La Tia Fingida.
+title: Novelas ejemplares
+url: http://www.gutenberg.org/ebooks/61202
